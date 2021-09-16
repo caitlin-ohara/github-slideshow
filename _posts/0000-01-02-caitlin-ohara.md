@@ -1,6 +1,6 @@
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Caitlin's Slide!"
 ---
 
-One of the keys to happiness is a bad memory.
+This is my awesome slide
 Use the left arrow to go back!
